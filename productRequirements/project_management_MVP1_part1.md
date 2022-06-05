@@ -8,7 +8,8 @@
 |Flow 1b| on board 机构基本信息填写                  | Norma / CC   | 6月4日      |         |        | Claire |
 |Flow 1c| 【我的萌宠】宠物信息页面                    | Chole        | 6月4日      |         |        | Claire |
 |Flow 2a| 机构基本信息补充修改                       | Claire       | 6月4日      |         |        | Claire |
-|Flow 2b| 机构领养程序管理                          |              | 6月4日       |      |        | Claire |
+|Flow 2a| 机构基本信息展示页面                       | Claire/Norma       | 6月4日      |         |        | Claire |
+|Flow 2b| 机构领养程序管理                          |  Norma            | 6月4日       |      |        | Claire |
 
 <br>
 
